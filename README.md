@@ -43,7 +43,7 @@
 | Title | Solution | Difficulty | Time | Space |status|
 | ----- | -------- | ---------- | ---- | ----- |------|
 [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Swift](Array/SortArrayByParity.swift)| Easy| O(n)| O(n)|OK|
-[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Swift](./Array/MaxConsecutiveOnes.swift)| Easy| O(n)| O(1)|
+[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Swift](./Array/MaxConsecutiveOnes.swift)| Easy| O(n)| O(1)|OK|
 [Heaters](https://leetcode.com/problems/heaters/)| [Swift](./Array/Heaters.swift)| Easy| O(nlogn)| O(1)|
 [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)| [Swift](./Array/NumberBoomerangs.swift)| Easy| O(n ^ 2)| O(n)|
 [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Swift](./Array/IslandPerimeter.swift)| Easy| O(nm)| O(1)|
