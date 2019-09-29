@@ -151,10 +151,10 @@
 [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Swift](./LinkedList/LFUCache.swift) | Hard| O(1)| O(1)|
 
 ## Stack
-| Title | Solution | Difficulty | Time | Space |
-| ----- | -------- | ---------- | ---- | ----- |
+| Title | Solution | Difficulty | Time | Space | status |
+| ----- | -------- | ---------- | ---- | ----- |-------|
 [Min Stack](https://leetcode.com/problems/min-stack/)| [Swift](./Stack/MinStack.swift)| Easy| O(1)| O(n)|
-[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Swift](./Stack/ValidParentheses.swift)| Easy| O(n)| O(n)|
+[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Swift](./Stack/ValidParentheses.swift)| Easy| O(n)| O(n)|OK|
 [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Swift](./Stack/LongestValidParentheses.swift)| Hard| O(n)| O(n)|
 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Swift](./Stack/EvaluateReversePolishNotation.swift)| Medium| O(n)| O(n)|
 [Simplify Path](https://leetcode.com/problems/simplify-path/)| [Swift](./Stack/SimplifyPath.swift)| Medium| O(n)| O(n)|
