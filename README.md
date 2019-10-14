@@ -46,7 +46,7 @@
 [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Swift](./Array/MaxConsecutiveOnes.swift)| Easy| O(n)| O(1)|OK|
 [Heaters](https://leetcode.com/problems/heaters/)| [Swift](./Array/Heaters.swift)| Easy| O(nlogn)| O(1)|
 [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)| [Swift](./Array/NumberBoomerangs.swift)| Easy| O(n ^ 2)| O(n)|
-[Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Swift](./Array/IslandPerimeter.swift)| Easy| O(nm)| O(1)|
+[Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Swift](./Array/IslandPerimeter.swift)| Easy| O(nm)| O(1)|OK|
 [Majority Element](https://leetcode.com/problems/majority-element/)| [Swift](./Array/MajorityElement.swift)| Easy| O(n)| O(1)|
 [Majority Element II](https://leetcode.com/problems/majority-element-ii/)| [Swift](./Array/MajorityElementII.swift)| Medium| O(n)| O(1)|
 [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [Swift](./Array/FirstMissingPositive.swift)| Hard| O(n)| O(n)|
